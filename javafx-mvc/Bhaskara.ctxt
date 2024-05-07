@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bhaskara
+comment0.text=\r\n\ Modela\ o\ c\u00E1lculo\ de\ IMC\r\n\ \r\n\ @author\ marceloakira\ \r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=Bhaskara()
+comment2.params=A\ B\ C
+comment2.target=Bhaskara(double,\ double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\r\n
+comment3.params=
+comment3.target=java.lang.String\ calcular()
+comment3.text=\r\n\ Calcula\ Bhaskara\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ calculado\ pro\ Bhaskara,\ dado\ por\:\ (-B\ +-\ sqrt(B*B-4*A*C)/)2*A\r\n
+numComments=4
